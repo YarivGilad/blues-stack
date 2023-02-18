@@ -1,4 +1,4 @@
-app = "remix-fullstack-3803"
+app = "blues-stack"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
